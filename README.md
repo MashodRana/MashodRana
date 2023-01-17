@@ -74,10 +74,12 @@ I am programmer and love to built things through coding. I am comfortable work i
 <br/>  
 
 <!--Github Stats-->
-<p float="left">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=MashodRana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashodRana&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashodrana&show_icons=true&locale=en&layout=compact" alt="mashodrana" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashodrana&show_icons=true&locale=en" alt="mashodrana" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashodrana&" alt="mashodrana" /></p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MashodRana&label=Profile%20views&color=0e75b6&style=flat" alt="mashodrana" /> </p>
