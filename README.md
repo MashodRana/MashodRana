@@ -74,11 +74,11 @@ I am programmer and love to built things through coding. I am comfortable work i
 <br/>  
 
 <!--Github Stats-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashodrana&show_icons=true&locale=en&layout=compact" alt="mashodrana" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MashodRana&show_icons=true&locale=en&layout=compact" alt="mashodrana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashodrana&show_icons=true&locale=en" alt="mashodrana" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MashodRana&show_icons=true&locale=en" alt="mashodrana" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashodrana&" alt="mashodrana" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MashodRana&" alt="mashodrana" /></p>
 
 
 
